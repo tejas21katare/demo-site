@@ -1,0 +1,85 @@
+.container-block{
+  background-color: #40514e;
+}
+
+.container-total{
+  background-color: beige;
+  height: 60%;
+  
+}
+.container-skills{
+ 
+  color: #bea6ff;
+  display: grid;
+  justify-content: center;
+  
+}
+.tejas{
+  font-weight: bold;
+  font-family: "Sacramento", cursive;
+  color: #51E8DD;
+}
+.katare{
+  color:rgb(24, 202, 199);
+}
+img{
+  width: 100px;
+ 
+  border-radius: 50%;
+}
+.intro {
+  color: #40514e;
+  margin: 20;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+.initials{
+  color: #40514e;
+  text-align: center;
+}
+.image-dog{
+  display: block;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hello{
+  font-weight: bold;
+  color: #51E8DD;
+
+}
+.lead{
+  font-weight: bold;
+  color: #51E8DD;
+}
+
+hr {
+    border: dotted  rebeccapurple 60px;
+    border-bottom: none;
+    width: 100%;
+    margin: 100px auto;
+}
+
+ 
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.contact-me{
+  text-align: center;
+  color: #51E8DD;
+
